@@ -1,0 +1,10 @@
+
+Producent: Apple
+Model: Apple
+Kolor Monitora: Niebieski
+Typ: HDM
+Cal: 25
+Kolory w milionach: 5
+Waga: 4
+Rok: 2009
+
